@@ -7,4 +7,4 @@ About me
 - 📫 How to reach me by email: **oleg21062010@gmail.com**, please **don't spam**.
 - 😄 Pronouns: **he/him**. 
 - ⚡ Fun fact: ChatGPT taught me the basics of the programming. 
-- 📃 Portfolio: **https://oleh-yaroshenko.github.io/portfolio/**.
+- 📃 Portfolio website: **https://oleh-yaroshenko.github.io/portfolio/**.
